@@ -1,0 +1,92 @@
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\LeitorPDF.exe.config
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\LeitorPDF.exe
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\LeitorPDF.pdb
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.Properties.Resources.resources
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.exe
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.pdb
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.Core.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.barcodes.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.forms.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.io.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.kernel.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.layout.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.pdfa.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.sign.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.svg.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.pdb
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Common.Logging.Core.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.barcodes.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.forms.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.io.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.kernel.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.layout.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.pdfa.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.sign.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\itext.svg.xml
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.csproj.CopyComplete
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\LeitorPDF.exe.manifest
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\LeitorPDF.application
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.exe.manifest
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.application
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pedro\Desktop\LeitorPDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.csproj.ResolveComReference.cache
+C:\Users\pedro\Desktop\LeitorPDF\obj\Debug\LeitorPDF.frmPrincipal.resources
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\LeitorPDF.exe.config
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\LeitorPDF.exe.manifest
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\LeitorPDF.application
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\LeitorPDF.exe
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\LeitorPDF.pdb
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.Core.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.barcodes.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.forms.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.io.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.kernel.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.layout.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.pdfa.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.sign.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.styledxmlparser.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.svg.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.pdb
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.Core.pdb
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Common.Logging.Core.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.barcodes.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.forms.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.io.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.kernel.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.layout.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.pdfa.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.sign.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.styledxmlparser.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\itext.svg.xml
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.csproj.ResolveComReference.cache
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.frmPrincipal.resources
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.Properties.Resources.resources
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.csproj.GenerateResource.cache
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.exe.manifest
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.application
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.csproj.CopyComplete
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.exe
+C:\Users\pedro\Documents\Projetos Gerais\Job\DevProjects\Leitor PDF\LeitorPDF\obj\Debug\LeitorPDF.pdb
