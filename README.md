@@ -1,5 +1,5 @@
 # PDF-Speaker
-Sistema em C# para ler PDFs em voz.
+Sistema desenvolvido em C# para ler PDFs em "voz alta".
 
 ## Sobre o sistema
 <img src='./img/pdfspeaker.png'>
